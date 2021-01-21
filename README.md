@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Ibtissam 👋
 
-<!--
-**Devibtissam/Devibtissam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I am an aspiring full stack developer. Current front end developer from Morocco
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on becoming a full stack developer
+- 🌱 I’m into Javascript, React, TypeScript, PHP, and other cool stuff
+- 👯 I’m looking to collaborate on web development projects
+- 💬 Ask me about Front end development or Web Development
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I like to read, travel and I am the worst cook in the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://ibtissam-el-b0400b1bb/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
