@@ -7,7 +7,7 @@ Web Developer
 Just a small lady who has an interest in coding and making software that solves problems in a creative way !
 
 
-<a href="https://www.codewars.com/users/ibtissam01" target="_blank"><img src="https://www.codewars.com/users/ibtissam01/badges/large"></a>
+<a href="https://www.codewars.com/users/ibtissam01" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/ibtissam01/badges/large"></a>
 ### Skills
 
 <p align="left">
