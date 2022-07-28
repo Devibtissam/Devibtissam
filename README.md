@@ -6,9 +6,8 @@ Web Developer
 
 Just a small lady who has an interest in coding and making software that solves problems in a creative way !
 
-<a href="https://www.twitter.com/devibtissam" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/devibtissam?logo=twitter&style=for-the-badge&color=a855f7&labelColor=581c87"
-/></a>
+
+<a href="https://www.codewars.com/users/ibtissam01" target="_blank"><img src="https://www.codewars.com/users/ibtissam01/badges/large"></a>
 ### Skills
 
 <p align="left">
